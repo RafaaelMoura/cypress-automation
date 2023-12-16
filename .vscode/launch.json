@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "Executar Script: cy:open:mobile",
+            "request": "launch",
+            "command": "npm run cy:open:mobile",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
